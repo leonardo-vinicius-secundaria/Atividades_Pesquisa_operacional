@@ -1,0 +1,29 @@
+# Executáveis compilados (sem extensão no Linux)
+questao2/racao
+questao2/dieta
+questao2/plantio
+questao2/tintas
+questao2/transporte
+questao2/fluxo_maximo
+questao2/escalonamento
+questao2/cobertura
+questao2/mochila
+questao2/clique_maxima
+questao2/padroes
+questao2/facilidades
+questao2/frequencia
+
+questao_1/binpacking
+questao_1/binpacking_or_instancy
+questao_1/2binpack
+
+# Padrões genéricos para qualquer binário
+*.exe
+*.out
+*.o
+*.obj
+
+# Backups e temporários
+*.bak
+*.tmp
+*~
